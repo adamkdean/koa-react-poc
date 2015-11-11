@@ -16,7 +16,7 @@
   "devDependencies": {},
   "dependencies": {
     "koa": "^1.1.2",
-    "koa-react-view": "^1.0.2",
+    "koa-react-view": "git+https://github.com/lukebennett/react-view",
     "koa-router": "^5.2.3",
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
